@@ -7,11 +7,16 @@ public class bank {
             needs.add("pan card");
             needs.add("cibil score");
             if(needs.contains("Aadhar")&&needs.contains("pan card")||needs.contains("pen card ")){
-                System.out.println("U'r eligible"); 
+                System.out.println("you are eligible"); 
              }else{
-                System.out.println("u'r not eligible");
+                System.out.println("you are not eligible");
              }
 
         }
     }   
-}
+}/*output:
+you are eligible*/
+    
+
+
+
