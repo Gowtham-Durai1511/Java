@@ -22,5 +22,13 @@ public class minimum {
           }
         }    
      
-    }
+    }/*output:
+Enter the value:5
+14
+67
+33
+89
+18
+Minimum value is :14 */
+
 
